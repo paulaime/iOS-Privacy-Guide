@@ -47,6 +47,8 @@ I encourage you to remove as many unused or infrequenly-used apps from your phon
 
 **5. Firewall & content blocker** – Use [DNSCloak](https://github.com/s-s/dnscloak), [AdGuard](https://adguard.com) or [Blokada](https://blokada.org) to block ads and trackers, and prevent your apps from contacting unnecessary servers.
 
+**6. Password manager** – Use a password manager like [Bitwarden](https://bitwarden.com) to securely generate and manage all your passwords.
+
 ### Credits
 
 * iOS icon by [Icon8](https://icons8.com)
