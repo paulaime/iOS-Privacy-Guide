@@ -37,13 +37,13 @@ iOS is not the best OS for privacy. Only an open source and privacy-focused OS c
 When you install a new app, go to this app's permissions in your settings and make sure everything is disable unless needed.
 I encourage you to remove as many unused or infrequenly-used apps from your phone as possible.
 
-**1. Web browser** – You can use a second web browser like [DuckDuckGo Privacy Browser](https://apps.apple.com/app/id663592361), [Firefox Focus](https://apps.apple.com/app/firefox-focus-privacy-browser/id1055677337), [Brave](https://apps.apple.com/app/brave-private-web-browser/id1052879175) or [Snowhaze](https://apps.apple.com/app/snowhaze-private-browser/id1121026941). Change the default search engine to something like [DuckDuckGo](https://duckduckgo.com) or [Startpage](https://startpage.com). If you use Safari, disable cross-site tracking in the settings. For using Tor, use the unofficial [Onion Browser](https://apps.apple.com/app/onion-browser/id519296448).
+**1. Web browser** – You can use a second web browser like [DuckDuckGo Privacy Browser](https://apps.apple.com/app/id663592361), [Firefox Focus](https://apps.apple.com/app/firefox-focus-privacy-browser/id1055677337), [Brave](https://apps.apple.com/app/brave-private-web-browser/id1052879175) or [Snowhaze](https://apps.apple.com/app/snowhaze-private-browser/id1121026941). Change the default search engine to something like [DuckDuckGo](https://duckduckgo.com), [Startpage](https://startpage.com) or [Mojeek](https://www.mojeek.com). If you use Safari, disable cross-site tracking in the settings. For using Tor, use the unofficial [Onion Browser](https://apps.apple.com/app/onion-browser/id519296448).
 
-**2. Navigation** – Apple Plan is pretty good, but you can use [OsmAnd](https://apps.apple.com/app/osmand-maps/id934850257) or [Magic Earth](https://apps.apple.com/app/magic-earth-gps-navigation/id1007331679) if you're looking for something more privacy-friendly.
+**2. Navigation** – Apple Plan is pretty good, but you can use [OsmAnd](https://apps.apple.com/app/osmand-maps/id934850257), [Magic Earth](https://apps.apple.com/app/magic-earth-gps-navigation/id1007331679) or [Organic Maps](https://apps.apple.com/app/organic-maps/id1567437057) if you're looking for something more privacy-friendly.
 
 **3. Messaging** – Use [Signal](https://www.signal.org) (or [Element](https://element.io)) instead of iMessages.
 
-**4. Email** – Use [Tutanota](https://tutanota.com), [ProtonMail](https://protonmail.com), or [another secure mail provider](https://privacytools.io/providers/email/#email).
+**4. Email** – Use [Tutanota](https://tutanota.com), [ProtonMail](https://protonmail.com), or [another secure mail provider](https://www.privacyguides.org/providers/email/#email).
 
 **5. Firewall & content blocker** – Use [DNSCloak](https://github.com/s-s/dnscloak), [AdGuard](https://adguard.com) or [Blokada](https://blokada.org) to block ads and trackers, and prevent your apps from contacting unnecessary servers.
 
@@ -53,5 +53,5 @@ I encourage you to remove as many unused or infrequenly-used apps from your phon
 
 * [The New Oil](https://thenewoil.xyz)
 * [The Complete iOS Privacy & Security Guide](https://www.youtube.com/watch?app=desktop&v=d2bJVKcIEg0)
-* [PrivacyTools.io](https://privacytools.io)
+* [Privacy Guides](https://www.privacyguides.org)
 * iOS icon by [Icon8](https://icons8.com)
