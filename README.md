@@ -53,5 +53,5 @@ I encourage you to remove as many unused or infrequenly-used apps from your phon
 
 * [The New Oil](https://thenewoil.xyz)
 * [The Complete iOS Privacy & Security Guide](https://www.youtube.com/watch?app=desktop&v=d2bJVKcIEg0)
-* [Privacy Guides](https://www.privacyguides.org)
+* [Privacy Tools](https://www.privacytools.io)
 * iOS icon by [Icon8](https://icons8.com)
